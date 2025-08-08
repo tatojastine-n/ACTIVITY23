@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\UppercaseLetterCounter\bin\Debug\UppercaseLetterCounter.exe.config
+C:\Users\HP\source\repos\UppercaseLetterCounter\bin\Debug\UppercaseLetterCounter.exe
+C:\Users\HP\source\repos\UppercaseLetterCounter\bin\Debug\UppercaseLetterCounter.pdb
+C:\Users\HP\source\repos\UppercaseLetterCounter\obj\Debug\UppercaseLetterCounter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UppercaseLetterCounter\obj\Debug\UppercaseLetterCounter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UppercaseLetterCounter\obj\Debug\UppercaseLetterCounter.exe
+C:\Users\HP\source\repos\UppercaseLetterCounter\obj\Debug\UppercaseLetterCounter.pdb
